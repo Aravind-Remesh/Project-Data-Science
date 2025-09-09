@@ -1,0 +1,2 @@
+This project demonstrates the implementation of a Linear Regression model using Python.
+The goal is to understand the relationship between input features (independent variables) and a target variable (dependent variable), and to make predictions based on the trained model.
